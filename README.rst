@@ -11,7 +11,7 @@ Installation
 
    .. code-block:: bash
 
-      pip install git+https://github.com/Mdmanish/file-stream.git@master#egg=file_stream&subdirectory=dist/file_stream-0.1.0.tar.gz
+      pip install https://github.com/Mdmanish/file-stream/raw/master/dist/file_stream-0.1.0.tar.gz
 
 2. Add the app to your Django project's `INSTALLED_APPS` in `settings.py`:
 
